@@ -9,8 +9,6 @@ http://naver.me/x4thX1XH
 class str
 https://docs.python.org/3/library/stdtypes.html#str
 
-테스트 문자열 ==>
-You have to trust in something
-your gut, destiny, life, karma, whatever.
-This approach has never let me down,
-and it has made all the difference in my life.
+
+container
+https://nvie.com/posts/iterators-vs-generators/
