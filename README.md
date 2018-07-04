@@ -23,3 +23,7 @@ https://nvie.com/posts/iterators-vs-generators/
 
 generator 함수
 https://wiki.python.org/moin/Generators
+
+
+클래스
+https://docs.python.org/3.6/tutorial/classes.html
