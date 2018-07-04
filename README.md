@@ -12,3 +12,8 @@ https://docs.python.org/3/library/stdtypes.html#str
 
 container
 https://nvie.com/posts/iterators-vs-generators/
+
+
+path 환경 설정
+C:\Anaconda3
+C:\Anaconda3\Scripts
