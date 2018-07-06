@@ -29,4 +29,4 @@ https://wiki.python.org/moin/Generators
 https://docs.python.org/3.6/tutorial/classes.html
 
 Exception 
-https://docs.python.org/3/library/exceptions.html
+https://docs.python.org/3/library/exceptions.html#exception-hierarchy
