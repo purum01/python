@@ -27,3 +27,6 @@ https://wiki.python.org/moin/Generators
 
 클래스
 https://docs.python.org/3.6/tutorial/classes.html
+
+Exception 
+https://docs.python.org/3/library/exceptions.html
