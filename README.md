@@ -30,3 +30,6 @@ https://docs.python.org/3.6/tutorial/classes.html
 
 Exception 
 https://docs.python.org/3/library/exceptions.html#exception-hierarchy
+
+open() 함수
+https://docs.python.org/3/library/functions.html#open
