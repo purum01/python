@@ -33,3 +33,6 @@ https://docs.python.org/3/library/exceptions.html#exception-hierarchy
 
 open() 함수
 https://docs.python.org/3/library/functions.html#open
+
+str 클래스 메소드
+https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
