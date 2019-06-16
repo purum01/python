@@ -1,3 +1,7 @@
+수업자료
+http://naver.me/GHmtYAsg
+
+
 class str
 https://docs.python.org/3/library/stdtypes.html#str
 
