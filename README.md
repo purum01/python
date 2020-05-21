@@ -1,5 +1,7 @@
 * [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
+* [파이썬 튜터](http://www.pythontutor.com/)
 
+ ---
 * [프로그램 언어 시장 점유율 - TIOBE](https://www.tiobe.com/tiobe-index/)
 * [프로그램 언어 시장 점유율 - 검색순](http://pypl.github.io/PYPL.html)
 * [프로그램 언어 시장 점유율 - IEEE](https://spectrum.ieee.org/computing/software/the-top-programming-languages-2019)  
@@ -18,6 +20,5 @@
 * [패키지 저장소](https://pypi.org/)
 
  ---
-* [파이썬 튜터](http://www.pythontutor.com/)
 * [튜토리얼 사이트](https://www.tutorialspoint.com/python/index.htm)
 * [점프 투 파이썬](https://wikidocs.net/book/1)
