@@ -18,6 +18,7 @@
 * [아니콘다 사이트](https://anaconda.org/)
 * [VSCode](https://code.visualstudio.com/)
 * [패키지 저장소](https://pypi.org/)
+* [list of awesome Python frameworks, libraries, software and resources.](https://github.com/vinta/awesome-python)
 
  ---
 * [튜토리얼 사이트](https://www.tutorialspoint.com/python/index.htm)
