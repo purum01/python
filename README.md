@@ -9,7 +9,8 @@
 * [파이썬 표준 라이브러리](https://docs.python.org/3/library/index.html)
 * [내장함수](https://docs.python.org/3/library/functions.html)
 * [연산자함수](https://docs.python.org/3/library/operator.html)
-* [패키지 저장소](https://pypi.org/)
+* [str 객체](https://docs.python.org/3.11/library/stdtypes.html#text-sequence-type-str)
  ---
+* [패키지 저장소](https://pypi.org/)
 * [점프 투 파이썬](https://wikidocs.net/book/1)
 * [튜토리얼 사이트](https://www.tutorialspoint.com/python/index.htm)
