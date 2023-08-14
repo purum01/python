@@ -10,6 +10,7 @@
 * [내장함수](https://docs.python.org/3/library/functions.html)
 * [연산자함수](https://docs.python.org/3/library/operator.html)
 * [str 객체](https://docs.python.org/3.11/library/stdtypes.html#text-sequence-type-str)
+* [예외 객체)(https://docs.python.org/3/library/exceptions.html#exception-hierarchy)
  ---
 * [패키지 저장소](https://pypi.org/)
 * [점프 투 파이썬](https://wikidocs.net/book/1)
