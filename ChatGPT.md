@@ -1,27 +1,18 @@
-<img src="https://s.gravatar.com/avatar/93d20b4c3253737781e59fcd29147de0?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpu.png" width="24" height="24"></img>
-You  
+
+* You  
 
 다음과 같은 기능이 구현된 파이썬 프로그램을 작성해주세요
 covid 폴더에 저장된 csv 파일들 개수 만큼 다음 작업을 반복합니다.
 1. 파일을 데이터프레임으로 표현합니다.
 2. 데이터 프레임에서 추출하는 컬럼은 'Country_Region', 'Confirmed' 입니다.
 3. 'Country_Region' 열 기준으로 그룹핑하고 'Confirmed'의 합을 구합니다. index를 reseset하지 마세요
-4. 'Confirmed' 열명은 파일이름에서 확장자를 제외한 이름으로 변경합니다. 이때 '-'문자는 '/'로 대체합니다.
+4. 'Confirmed' 열명은 파일이름에서 확장자를 제외한 이름으로 변경합니다.
 
 위에서 작업한 모든 파일의 내용은 'Country_Region' 열을 기준으로 하나의 데이터프레임으로 나타내주세요.
 결과 데이터 프레임을  covid.xlsx 로 저장해주세요
 
-User
-다음과 같은 기능이 구현된 파이썬 프로그램을 작성해주세요
-covid 폴더에 저장된 csv 파일들 개수 만큼 다음 작업을 반복합니다.
-1. 파일을 데이터프레임으로 표현합니다.
-2. 데이터 프레임에서 추출하는 컬럼은 'Country_Region', 'Confirmed' 입니다.
-3. 'Country_Region' 열 기준으로 그룹핑하고 'Confirmed'의 합을 구합니다. index를 reseset하지 마세요
-4. 'Confirmed' 열명은 파일이름에서 확장자를 제외한 이름으로 변경합니다. 이때 '-'문자는 '/'로 대체합니다.
 
-위에서 작업한 모든 파일의 내용은 'Country_Region' 열을 기준으로 하나의 데이터프레임으로 나타내주세요.
-결과 데이터 프레임을  covid.xlsx 로 저장해주세요
-ChatGPT
+* ChatGPT
 아래는 요구 사항에 맞게 작성된 파이썬 프로그램입니다. 이 프로그램은 pandas 라이브러리를 사용하여 작성되었습니다.
 
 ```python
