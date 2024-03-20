@@ -1,3 +1,4 @@
+![Alt text]([/path/to/img.jpg](https://s.gravatar.com/avatar/93d20b4c3253737781e5…&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpu.png))
 User
 다음과 같은 기능이 구현된 파이썬 프로그램을 작성해주세요
 covid 폴더에 저장된 csv 파일들 개수 만큼 다음 작업을 반복합니다.
