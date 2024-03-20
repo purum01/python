@@ -1,4 +1,4 @@
-<img src="https://s.gravatar.com/avatar/93d20b4c3253737781e59fcd29147de0?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpu.png"></img>
+<img src="https://s.gravatar.com/avatar/93d20b4c3253737781e59fcd29147de0?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fpu.png" width="24" height="24"></img>
 User
 다음과 같은 기능이 구현된 파이썬 프로그램을 작성해주세요
 covid 폴더에 저장된 csv 파일들 개수 만큼 다음 작업을 반복합니다.
