@@ -15,3 +15,5 @@
 * [패키지 저장소](https://pypi.org/)
 * [점프 투 파이썬](https://wikidocs.net/book/1)
 * [튜토리얼 사이트](https://www.tutorialspoint.com/python/index.htm)
+
+* Covid(ChatGPT)
