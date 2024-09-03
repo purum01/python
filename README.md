@@ -19,4 +19,4 @@
 
  ---
  * [ChatGPT](https://chat.openai.com/)
- * [상권분석](https://nbviewer.org/github/purum01/python/blob/master/seoul.ipynb)
+ * [상권분석](https://nbviewer.org/github/purum01/python/blob/master/store.ipynb)
