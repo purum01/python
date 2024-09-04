@@ -32,7 +32,7 @@ for file in file_list:
     else:
         final_doc = pd.merge(final_doc, doc, how='outer', left_index=True, right_index=True)
 final_doc.to_excel('covid_2020.xlsx')
-
+```
 
 질문2
 =======
