@@ -14,6 +14,10 @@
 * ChatGPT   
 
 ```python
+import os
+import pandas as pd
+
+PATH = 'covid/'
 file_list = os.listdir(PATH)
 first_doc = True
 
