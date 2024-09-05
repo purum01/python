@@ -8,6 +8,7 @@
 * [아니콘다 사이트](https://anaconda.org/)
 ---  
  * [ChatGPT](https://chat.openai.com/)
+ * [Python with ChatGPT](https://purum01.github.io/pygpt/)
  * [상권분석](https://nbviewer.org/github/purum01/python/blob/master/store.ipynb)
 ---
 * [파이썬 표준 라이브러리](https://docs.python.org/3/library/index.html)
