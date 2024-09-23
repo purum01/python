@@ -5,7 +5,7 @@
  ---
 * [프로그램 언어 시장 점유율 - TIOBE](https://www.tiobe.com/tiobe-index/)
 * [파이썬 공식 사이트](https://www.python.org/)
-* [아니콘다 사이트](https://anaconda.org/)
+* [아나콘다 사이트](https://anaconda.org/)
 ---  
  * [ChatGPT](https://chat.openai.com/)
  * [Python with ChatGPT](https://purum01.github.io/pygpt/)
