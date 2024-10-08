@@ -9,7 +9,7 @@
 ---  
  * [ChatGPT](https://chat.openai.com/)
  * [Python with ChatGPT](https://purum01.github.io/pygpt/)
- * [상권분석](https://nbviewer.org/github/purum01/python/blob/master/store.ipynb)
+ * [상권분석](https://nbviewer.org/gist/purum01/ec6166a45e60aee4ff722465fba2ab11)
 ---
 * [파이썬 표준 라이브러리](https://docs.python.org/3/library/index.html)
 * [내장함수](https://docs.python.org/3/library/functions.html)
